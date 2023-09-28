@@ -23,3 +23,4 @@ print(x1[:4])
 print(x2[0:,2:])
 #here first index 0: refers to row and 2:refers to coloumn
 print(x2[:1,2:])
+#experiment 3 sub array can be derived by slicing method same process
